@@ -16,6 +16,9 @@ int main(){
 		else if(x%3==0 && x%5==0){
 			cout << "fizzbuzz!" << endl;
 		}
+		else if (x==20) {
+			cout << "20" << endl;
+		}
 		else{
 			cout << x << endl;
 		}
