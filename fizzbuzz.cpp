@@ -13,6 +13,7 @@ int main(){
 		else if(x%5==0 && x%3!=0){
 			cout << "buzz" << endl;
 		}
+		else if(x%3==0 && x%5==0){
 			cout << "fizzbuzz" << endl;
 		}
 		else{
