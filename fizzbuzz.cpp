@@ -14,7 +14,7 @@ int main(){
 			cout << "buzz" << endl;
 		}
 		else if(x%3==0 && x%5==0){
-			cout << "fizzbuzz" << endl;
+			cout << "fizzbuzz!" << endl;
 		}
 		else{
 			cout << x << endl;
