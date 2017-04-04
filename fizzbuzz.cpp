@@ -3,6 +3,9 @@
 #include <iostream>
 using namespace std;
 
+
+#include "fizz.h"
+
 int main(){
 
 	for(int x=1;x<=30;x++){
